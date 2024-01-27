@@ -1,1 +1,2 @@
 # Simon-Game
+A sequence of colors are shown to the player. The player should memorize those and reproduce the same sequence by pushing the corresponding switches. The displayed sequence begins with a single colour. If the player follows successfully, another randomly chosen colour is added to the end of the sequence each time and this new sequence is displayed. So the sequence becomes longer each time. The game ends if the player makes a mistake, or if the player wins.
